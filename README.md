@@ -1,7 +1,7 @@
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [VBS](https://code.visualstudio.com/)
+- [VSCODE](https://code.visualstudio.com/)
 
 ## ✨ Como foi feito ?
 
@@ -13,7 +13,7 @@
 Utilize os prompts dentro ChtGPT para refatorar o code e chegar há uma melhor definição. Os testes pelo `Visual Studio Code`.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os Visual Studio Code para refatoração e testes `VSC`
+- 🤖 2. Use os Visual Studio Code para refatoração e testes `VSCODE`
 
 ## 👨‍💻 Expert
 
